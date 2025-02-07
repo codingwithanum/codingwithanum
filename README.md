@@ -51,9 +51,9 @@
 
 ### 📬 Connect with Me  
 💼 **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~01feee2079fb8e18bb?viewMode=1)  
-🌐 **Portfolio:** [Visit Here](https://portfolio-anum-shahanas-projects.vercel.app/)  
-📧 **Email:** anumshahana.dev@gmail.com  
-💬 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+🌐 **Portfolio:** [Visit Here](https://www.anumshahana.com/)  
+📧 **Email:** anumshahana4@gmail.com  
+💬 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anumshahana/)  
 🐦 **Twitter:** [@codingwithanum](https://twitter.com/your-handle)  
 
 ---
